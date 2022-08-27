@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="15px" height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img width="28px" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 <!--
 **luccgatto/luccgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
