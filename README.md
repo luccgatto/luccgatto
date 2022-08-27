@@ -1,5 +1,5 @@
 ## Seja bem vindo ao meu perfil do GitHub.
-<h1> 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, </h1>
+- 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, 
 
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
