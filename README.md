@@ -1,7 +1,7 @@
 ## Seja bem vindo ao meu <a href="https://github.com/luccgatto">perfil do GitHub.</a>
 ## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, e tenho 18 anos. Sou focado em back-end, mas possuo conhecimento em front-end também.
 
-## ㅤTecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
           
