@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 ## Seja bem vindo ao meu perfil do GitHub.
 ## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰,
 
