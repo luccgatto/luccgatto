@@ -1,5 +1,9 @@
-## Seja bem vindo ao meu perfil do GitHub. <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, 
+## Seja bem vindo ao meu perfil do GitHub.
+## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, e tenho 18 anos. Sou focado em back-end, mas possuo conhecimento em front-end também.
+
+## Tecnologias e Ferramentas
+
+<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 
 
           
