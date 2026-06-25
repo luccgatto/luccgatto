@@ -1,37 +1,88 @@
-## Seja bem vindo ao meu <a href="https://github.com/luccgatto">perfil do GitHub.</a>
-## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰, e tenho 18 anos. Sou focado em back-end, mas possuo conhecimento em front-end também.
+<h1 align="center">Hi, I'm Lucca Monteiro 👋</h1>
 
-## Tecnologias e Ferramentas
+<p align="center">
+Data Analyst • Python Developer • Internal Controls • Automation
+</p>
 
-<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
-## Linguagens
+---
 
-<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />ㅤㅤ<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />ㅤㅤ
-          
-          
-          
+## 🚀 About Me
 
-                    
+I'm a Data Analyst and Internal Controls Analyst from Brazil, passionate about solving business problems through data and automation.
 
-          
+Currently, I work in the financial sector, developing data-driven solutions that improve operational efficiency, automate processes and support decision-making.
 
-<!--
-**luccgatto/luccgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main interests are:
 
-Here are some ideas to get you started:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+- 📊 Data Analytics
+- 🤖 Process Automation
+- 🐍 Python Development
+- 🗄 SQL & Databases
+- 📈 Business Intelligence
+- 🔐 Governance, Risk & Compliance (GRC)
 
-## Seja bem vindo ao meu perfil do GitHub.
-## 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘓𝘶𝘤𝘤𝘢 𝘔𝘰𝘯𝘵𝘦𝘪𝘳𝘰,
+---
 
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+- Python
+- SQL
+- JavaScript (basic)
+
+**Data**
+
+- Pandas
+- NumPy
+- Power BI
+- Excel
+- Oracle SQL
+- SQL Server
+
+**Development**
+
+- Git
+- GitHub
+- Docker
+- Django
+- REST APIs
+
+**Automation**
+
+- Python
+- Power Automate
+- SharePoint
+- ETL
+
+---
+
+## 💼 What I build
+
+- Data automation scripts
+- ETL pipelines
+- Interactive dashboards
+- Business reports
+- Process automation
+- Internal control solutions
+- Data analysis projects
+
+---
+
+## 📈 Currently Learning
+
+- Machine Learning
+- Data Engineering
+- Cloud Computing
+- MLOps
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/luccagatto
+- Email: seuemail@email.com
+
+---
+
+> "Turning data into practical solutions."
