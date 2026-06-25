@@ -80,8 +80,8 @@ My main interests are:
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/luccagatto
-- Email: seuemail@email.com
+- LinkedIn: https://www.linkedin.com/in/luccamonteiros/
+- Email: luccamonsegatto@gmail.com
 
 ---
 
